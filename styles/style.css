@@ -1,0 +1,36 @@
+p {
+    color: rgb(197, 240, 255);
+  }
+html {
+    background-color: #a2cffa;
+  }
+  html {
+    font-size: 10px;
+    font-family: 'Merriweather', sans-serif;
+  }
+  h1 {
+    font-size: 80px;
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #71b2b5;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #c078c0;
+    text-shadow: 2px 2px 4px black;
+  }
